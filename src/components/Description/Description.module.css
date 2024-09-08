@@ -1,4 +1,13 @@
 .title {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
   color: #7964b9;
+  text-shadow: 0 0 10px #2c352d, 0 0 20px #67c989, 0 0 30px #e7e4d9,
+    0 0 40px #7964b9, 0 0 50px #7964b9;
+}
+
+.description {
+  font-family: Arial, Helvetica, sans-serif;
+  color: bisque;
 }

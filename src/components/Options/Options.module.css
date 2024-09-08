@@ -1,0 +1,13 @@
+.options {
+  display: flex;
+  gap: 4px;
+  justify-content: center;
+}
+
+.button {
+  border: 1px solid #eee8e8;
+}
+
+.button:hover {
+  color: #41c3ca;
+}
